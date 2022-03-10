@@ -21,6 +21,7 @@
   "main": "build/plywood.js",
   "typings": "build/index.d.ts",
   "files": [
+    "src/",
     "build/",
     "package/",
     "typings/"
